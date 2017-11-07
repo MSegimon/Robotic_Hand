@@ -1,0 +1,32 @@
+Specifications – ACCESS FM
+
+-	Aesthetics
+o		The colour of my project does not mater since it is just a prototype
+o		My project will have to shape of a regular hand given that that’s what I want to create.
+o		Its texture will be a bit ruffe on the outside but will be nice and smooth where the amputee will put his arm
+o		The total weight of the prototype will not go over 500g
+-	Cost
+o		The price of a typical prosthetic hand is around 200 dollars and I doesn’t even move and a hand that does move costs around 1500 dollars.
+o		It will cost me around 100 euros to make my own prosthetic hand
+			Servo = 11,83 * 2 = 23.66
+			Arduino nano + shield = 11,11
+			6v battery = 10,99
+			Nylon paracord = 7,89
+-	Customer
+o		My product is meant to teach kids on how you can use robotics to solve everyday problems
+-	Environment 
+o		Since the plastic that I am using to make this hand is PLA it can be recycled
+o		All the electrical components can be removed and reused
+-	Size
+o		The size of my product will be the size of a normal arm
+-	Safety
+o		All of the electric components will be stowed away so there is no risk of electric shock
+-	Function
+o		My products role is to function as a prosthetic arm for amputees
+o		And to teach kids on how robotics is used every day
+o		I will use my arm to teach kids because it will not pass the regulations for it to be used as a prosthetic
+-	Material
+o		My product will be mostly made from PLA plastic
+o		I used PLA because it is cheap and easy to use
+o		It would be better if the was made from cast plastic because it would be stronger
+o		All of the plastic pieces were 3D printed
