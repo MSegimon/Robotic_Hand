@@ -1,14 +1,15 @@
 # Robotic Hand (Personal Project)
 
-My goal for this project is to degisn and create a robotic arm inorder to teach kids about robotics and the *maker world*.
+My goal for this project is to design and create a robotic arm in order to teach kids about robotics and the *maker world*.
 
 
- ### Parts Needed For This Project:
+ ### Parts Needed For This Project(these are the parts that I used, you might find them cheaper somewhere else):
 
- * Elastic 1/8 Paracord: https://goo.gl/DjuqTM
- * 6v Rechargable Battery: https://goo.gl/3fVmW7
- * Arduino Nano + IO Expancion Shield: https://goo.gl/JNiDEe
+ * Elastic 1/8 Para cord: https://goo.gl/DjuqTM
+ * 6v Rechargeable Battery: https://goo.gl/3fVmW7
+ * Arduino Nano + IO Expansion Shield: https://goo.gl/JNiDEe
  * Metal Gear Servos (these are the ones I used but you can use any standard sized servo): https://goo.gl/YSkzw1
+ * MYOware muscle sensor: https://goo.gl/GYe57F
 
 And here's some code! :+1:
 
@@ -24,7 +25,7 @@ int val = 0;
   {
     fingers.attach(9);  //Attach the servo for the four fingers to pin9
     thumb.attach(8);   // Attach the servo for the thumb to pin 8
-    Serial.begin(9600);  // this is for serial moniter to see the muscle sensor value you're getting
+    Serial.begin(9600);  // this is for serial monitor to see the muscle sensor value you're getting
   }
   void loop()
 {
@@ -47,5 +48,4 @@ else{
 
 ### Programs Needed For This Project:
 
- * [Ardiuno](https://www.arduino.cc/) To program the arduino board
- * [Processing](https://processing.org/) Inorder to control arduino though your computer via *serial*
+ * [Ardiuno](https://www.arduino.cc/) To program the Arduino board
