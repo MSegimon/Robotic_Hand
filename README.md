@@ -31,7 +31,7 @@ int val = 0;
 {
   val = analogRead(analogpin); //muscle sensor connected to pin A3 being stated as val
   Serial.println(val);
-  if( val < 550) //if you flex and the sensor value is greater than 550 then close servos--adjust this value to your muscle sensor value
+  if( val < 100) //if you flex and the sensor value is greater than 100 then close servos--adjust this value to your muscle sensor value
   {
     thumb.write(180);
     fingers.write(180);
